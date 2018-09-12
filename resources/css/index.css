@@ -1,0 +1,38 @@
+body {
+  background: url(http://bdfjade.com/data/out/45/5522642-nice-wallpapers.jpeg);
+  background-repeat: no-repeat;
+  background-size: 1920px 1000px;
+}
+* {
+  font-family: Helvetica, Arial, sans-serif;
+  text-align: center;
+}
+
+
+h1 {
+  opacity: 1;
+  color: black;
+  text-align: center;
+}
+
+
+p,
+li {
+  opacity: 1;
+  color: black
+  font-size: 18px;
+  text-align: center;
+}
+
+
+a {
+  opacity: 1;
+  color: black;
+  text-decoration: none;
+  text-align: center;
+}
+
+/*.name {
+  background-color: #728AB6;
+  opacity: 1;
+}
